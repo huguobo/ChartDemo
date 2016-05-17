@@ -1,0 +1,13 @@
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\bin\Debug\chartDemo.exe.config
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\bin\Debug\chartDemo.exe
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\bin\Debug\chartDemo.pdb
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\obj\Debug\chartDemo.csprojResolveAssemblyReference.cache
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\obj\Debug\chartDemo.Form1.resources
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\obj\Debug\chartDemo.Properties.Resources.resources
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\obj\Debug\chartDemo.csproj.GenerateResource.Cache
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\obj\Debug\chartDemo.exe
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\obj\Debug\chartDemo.pdb
+c:\users\cooper\documents\visual studio 2012\Projects\chartDemo\chartDemo\obj\Debug\chartDemo.Form2.resources
+F:\莹莹\chartDemo\chartDemo\chartDemo\bin\Debug\chartDemo.exe.config
+F:\莹莹\chartDemo\chartDemo\chartDemo\obj\Debug\chartDemo.exe
+F:\莹莹\chartDemo\chartDemo\chartDemo\obj\Debug\chartDemo.pdb
